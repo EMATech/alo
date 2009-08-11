@@ -1,0 +1,112 @@
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = play
+    config = play
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = record
+    config = record
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = pause
+    config = pause
+    
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = ok
+    config = save
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = power
+    config = record
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = mute
+    config = mute
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = vol-down
+    config = volume -1
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = stop
+    config = stop
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = up
+    config = start
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = vol-up
+    config = volume +1
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = down
+    config = end
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = right
+    config = next
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = rewind
+    config = rewind
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = forward
+    config = forward
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = left
+    config = previous
+end
+
+begin
+    remote = SAPPHIRE_ATIUSB_5000023600
+    prog = alo
+    button = max_window
+    config = all_rec
+end

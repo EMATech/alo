@@ -1,0 +1,18 @@
+alo - Ardour Lirc Osc
+
+ABOUT
+This is a very simple mapper between lirc and Ardour's OSC written in Perl.
+
+DEPENDENCIES
+It's based on Audio-Ardour-Control and Lirc-Client perl modules available at cpan.org.
+
+CONFIGURATION
+You need a properly configured lirc remote and a specific lirc configuration file in your "~/.lirc/" named "alo".
+The example provided is for an ATI Remote Wonder.
+
+USAGE
+Don't forget to enable OSC in ardour before launching alo with "perl alo.pl"
+
+CONTACT
+Raphaël Doursenaud
+<rdoursenaud@free.fr>
