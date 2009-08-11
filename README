@@ -12,7 +12,3 @@ The example provided is for an ATI Remote Wonder.
 
 USAGE
 Don't forget to enable OSC in ardour before launching alo with "perl alo.pl"
-
-CONTACT
-Raphaël Doursenaud
-<rdoursenaud@free.fr>
